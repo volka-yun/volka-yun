@@ -39,12 +39,12 @@ Here are some ideas to get you started:
 <a>
   <!-- git stats -->
   <a href="https://github.com/VolkaDemetrie">
-    <img height=200 width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=VolkaDemetrie&theme=merko&show_icons=false&count_private=true" />
+    <img height=200 width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=volka-yun&theme=merko&show_icons=false&count_private=true" />
   </a>
 
   <!-- language chart -->
   <a href="https://github.com/VolkaDemetrie">
-    <img height=200 width=30% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VolkaDemetrie&theme=dark&layout=donut&hide=css,html&card_width=320" />
+    <img height=200 width=30% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volka-yun&theme=dark&layout=donut&hide=css,html&card_width=320" />
   </a>
 </a>
 
