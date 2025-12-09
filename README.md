@@ -36,19 +36,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-<a>
-  <!-- git stats -->
-  <a href="https://github.com/volka-yun">
-    <img height=200 width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=volka-yun&theme=merko&show_icons=false&count_private=true" />
-  </a>
-
-  <!-- language chart -->
-  <a href="https://github.com/volka-yun">
-    <img height=200 width=30% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volka-yun&theme=dark&layout=donut&hide=css,html&card_width=320" />
-  </a>
-</a>
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=volka-yun)
 
 
