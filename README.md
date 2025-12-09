@@ -1,5 +1,5 @@
 <!--
-**VolkaDemetrie/VolkaDemetrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**volka-yun/volka-yun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -38,18 +38,18 @@ Here are some ideas to get you started:
 
 <a>
   <!-- git stats -->
-  <a href="https://github.com/VolkaDemetrie">
+  <a href="https://github.com/volka-yun">
     <img height=200 width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=volka-yun&theme=merko&show_icons=false&count_private=true" />
   </a>
 
   <!-- language chart -->
-  <a href="https://github.com/VolkaDemetrie">
+  <a href="https://github.com/volka-yun">
     <img height=200 width=30% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volka-yun&theme=dark&layout=donut&hide=css,html&card_width=320" />
   </a>
 </a>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=VolkaDemetrie)
+![Profile Views](https://komarev.com/ghpvc/?username=volka-yun)
 
 
 <br/>
@@ -145,11 +145,6 @@ Here are some ideas to get you started:
 </div>
 
 
-
-# Study
-<a href="https://volkademetrie.notion.site/Junho-Yun-5c4355d294744614b04c01a5b935a7a6?pvs=4">
-  <img src="https://img.shields.io/badge/notion-FFFFFF.svg?style=for-the-badge&logo=notion&logoColor=000000" />
-</a>
 
 <br/>
 
